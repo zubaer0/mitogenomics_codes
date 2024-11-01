@@ -1,0 +1,212 @@
+>Absidia-glauca
+cox1 nad2 nad3 cob cox3 nad4L nad5 rns atp9 nad6 nad1 rnl atp8 nad4 atp6 cox2
+>Ajellomyces-capsulatus
+['NADH dehydrogenase subunit 1', 'NADH dehydrogenase subunit 3', 'NADH dehydrogenase subunit 2', 'ATP synthase subunit 9', 'cytochrome oxidase subunit I', 'ribosomal protein S5', 'cytochrome oxidase subunit II', 'cytochrome oxidase subunit III', 'ATP synthase subunit 8', 'NADH dehydrogenase subunit 4'] 
+
+>Allomyces-macrogynus
+cox1 nad6 rns atp8 nad3 nad2 nad4 nad1 nad4L atp9 rps3 rnl cob cox3 cox2 nad5 atp6
+>Arthroderma-obtusum
+cox1 atp9 cox2 nad4 nad4L nad5 nad2 cob nad3 nad1 atp6 nad6 cox3 atp8
+>Arthroderma-otae
+cox1 atp9 cox2 nad4 nad4L nad5 nad2 cob nad3 nad1 atp6 nad6 cox3 atp8
+>Arthroderma-uncinatum
+cox1 atp9 cox2 nad4 nad4L nad5 nad2 cob nad3 nad1 atp6 nad6 cox3 atp8
+>Aspergillus-clavatus
+['NADH dehydrogenase subunit 1', 'NADH dehydrogenase subunit 4', 'ATP synthase subunit 8', 'ATP synthase subunit 6', 'small subunit', 'NADH dehydrogenase subunit 6', 'cytochrome oxidase subunit 3', 'large subunit', 'ribosomal protein S5', 'cytochrome oxidase subunit 1', 'ATP synthase subunit 9', 'NADH dehydrogenase subunit 3', 'cytochrome oxidase subunit 2', 'NADH dehydrogenase subunit 4L', 'NADH dehydrogenase subunit 5', 'NADH dehydrogenase subunit 2'] 
+
+>Aspergillus-flavus
+['NADH dehydrogenase subunit 1', 'NADH dehydrogenase subunit 4', 'ATP synthase subunit 8', 'ATP synthase subunit 6', 'small subunit', 'NADH dehydrogenase subunit 6', 'cytochrome oxidase subunit 3', 'large subunit', 'ribosomal protein S5', 'cytochrome oxidase subunit 1', 'ATP synthase subunit 9', 'NADH dehydrogenase subunit 3', 'cytochrome oxidase subunit 2', 'NADH dehydrogenase subunit 4L', 'NADH dehydrogenase subunit 5', 'NADH dehydrogenase subunit 2'] 
+
+>Aspergillus-fumigatus
+['NADH dehydrogenase subunit 1', 'NADH dehydrogenase subunit 4', 'ATP synthase subunit 8', 'ATP synthase subunit 6', 'small subunit', 'NADH dehydrogenase subunit 6', 'cytochrome oxidase subunit 3', 'large subunit', 'ribosomal protein S5', 'cytochrome oxidase subunit 1', 'ATP synthase subunit 9', 'NADH dehydrogenase subunit 3', 'cytochrome oxidase subunit 2', 'NADH dehydrogenase subunit 4L', 'NADH dehydrogenase subunit 5', 'NADH dehydrogenase subunit 2'] 
+
+>Aspergillus-nidulans
+['rns', 'rnl']
+>Aspergillus-niger
+cox1 atp9 nad3 cox2 nad4L nad5 nad2 cob nad1 nad4 atp8 atp6 nad6 cox3
+>Aspergillus-oryzae
+['ATP synthase subunit 8', 'ATP synthase subunit 6', 'small subunit', 'NADH dehydrogenase subunit 6', 'cytochrome oxidase subunit 3', 'large subunit', 'ribosomal protein S5', 'cytochrome oxidase subunit 1', 'ATP synthase subunit 9', 'NADH dehydrogenase subunit 3', 'cytochrome oxidase subunit 2', 'NADH dehydrogenase subunit 4', 'NADH dehydrogenase subunit 4L', 'NADH dehydrogenase subunit 5', 'NADH dehydrogenase subunit 2', 'NADH dehydrogenase subunit 1'] 
+
+>Aspergillus-terreus
+['NADH dehydrogenase subunit 1', 'NADH dehydrogenase subunit 4', 'ATP synthase subunit 8', 'ATP synthase subunit 6', 'small subunit', 'NADH dehydrogenase subunit 6', 'cytochrome oxidase subunit 3', 'large subunit', 'ribosomal protein S5', 'cytochrome oxidase subunit 1', 'ATP synthase subunit 9', 'NADH dehydrogenase subunit 3', 'cytochrome oxidase subunit 2', 'NADH dehydrogenase subunit 4L', 'NADH dehydrogenase subunit 5', 'NADH dehydrogenase subunit 2'] 
+
+>Aspergillus-tubingensis
+cox1 atp9 nad3 cox2 nad4L nad5 nad2 cob nad1 nad4 atp8 atp6 nad6 cox3
+>Beauveria-bassiana
+cox1 nad1 ND1 atp8 atp6 cox3 COXIII nad6 ND6 rnl rps3 nad2 ND2 nad3 ND3 atp9 COXI cox2 COXII nad4 ND4 nad4L ND4L nad5 ND5 cob
+>Blastocladiella-emersonii
+cox1 COX1 nad6 rns atp8 nad3 nad2 nad4 nad1 nad4L atp9 rps3 rnl cob cox3 cox2 nad5 atp6
+>Botryotinia-fuckeliana
+['NADH dehydrogenase subunit 4', 'NADH dehydrogenase subunit 4L', 'NADH dehydrogenase subunit 5', 'NADH dehydrogenase subunit 6', 'cytochrome c oxidase subunit 3', 'ribosomal protein S3', 'cytochrome c oxidase subunit 1', 'ATP synthase subunit 9', 'NADH dehydrogenase subunit 1', 'ATP synthase subunit 8', 'ATP synthase subunit 6', 'NADH dehydrogenase subunit 2', 'NADH dehydrogenase subunit 3', 'cytochrome c oxidase subunit 2'] 
+
+>Candida-sake
+cox1 nad5 nad4L atp9 cob cox3 rns nad1 nad6 cox2 rnl atp6 atp8 nad4 nad3 nad2
+>Cantharellus-cibarius
+cox1 atp8 atp6 cob nad6 atp9 rnl nad4 nad1 cox3 rps3 rns cox2 nad4L nad5 nad2 nad3
+>Chaetomium-thermophilum
+['NADH dehydrogenase subunit 6', 'ribosomal protein S3', 'NADH dehydrogenase subunit 2', 'NADH dehydrogenase subunit 3', 'ATP synthase subunit 9', 'NADH dehydrogenase subunit 4', 'NADH dehydrogenase subunit 4L', 'NADH dehydrogenase subunit 5', 'cytochrome c oxidase subunit 1', 'NADH dehydrogenase subunit 1'] 
+
+>Chrysoporthe-cubensis
+cox1 nad2 nad3 cox2 atp9 nad4 nad4L nad5 atp8 atp6 rns cox3 nad6 rnl nad1 cob
+>Colletotrichum-gloeosporioides
+cox1 nad1 nad4 atp8 atp6 cox3 nad6 rps3 nad2 nad3 atp9 cox2 nad4L nad5 cob
+>Cordyceps-bassiana
+cox1 nad1 atp8 atp6 rns cox3 nad6 rnl rps3 nad2 nad3 atp9 cox2 nad4 nad4L nad5 cob
+>Cordyceps-brongniartii
+cox1 nad1 atp8 atp6 rns cox3 nad6 rnl rps3 nad2 nad3 atp9 cox2 nad4 nad4L nad5 cob
+>Cryptococcus-neoformans
+cox1 COX1 ATP8 nad2 ND2 nad3 ND3 cox2 COX2 nad1 ND1 cob rps3 rnl cox3 COX3 nad4 ND4 nad4L nad5 ND5 nad6 ND6 rns ATP6 ATP9
+>Epidermophyton-floccosum
+cox1 COX1 atp9 cox2 nad4 nad4L nad5 nad2 cob nad3 nad1 atp6 nad6 cox3 atp8
+>Exophiala-dermatitidis
+['NADH dehydrogenase subunit 5', 'NADH dehydrogenase subunit 2', 'cytochrome c oxidase subunit 3', 'ATP synthase subunit 9', 'ribosomal protein S5', 'cytochrome c oxidase subunit 1', 'ATP synthase subunit 8', 'ATP synthase subunit 6', 'cytochrome c oxidase subunit 2'] 
+
+>Funneliformis-mosseae
+cox1 rns rnl cox2 atp8 atp6 cob nad4 cox3 atp9 nad2 nad3 nad1 nad6 nad4L
+>Fusarium-gerlachii
+CO1 ND1 ATP8 ATP6 MTRNR1 CO3 ND6 MTRNR2 RPS3 ND2 ND3 ATP9 CO2 ND4 ND4L ND5 CYTB
+>Fusarium-oxysporum
+cox1 nad1 atp8 atp6 rns cox3 nad6 rnl rps3 nad2 nad3 atp9 cox2 nad4 nad4L nad5 cob
+>Fusarium-solani
+cox1 nad1 atp8 atp6 rns cox3 nad6 rnl rps3 nad2 nad3 atp9 cox2 nad4 nad4L nad5 cob
+>Gibberella-moniliformis
+cox1 nad1 atp8 atp6 rns cox3 nad6 rnl rps3 nad2 nad3 atp9 cox2 nad4 nad4L nad5 cob
+>Gibberella-zeae
+cox1 nad1 atp8 atp6 cox3 nad6 rps3 nad2 nad3 atp9 cox2 nad4 nad4L nad5 cob
+>Glomerella-graminicola
+['COX1', 'COX3', 'COX2']
+>Harpochytrium-sp
+cox1 cox2 nad4 nad4L cob rnl nad1 rns nad2 nad3 atp9 nad6 atp8 atp6 cox3 nad5
+>Hirsutella-minnesotensis
+cox1 nad1 atp8 atp6 rns cox3 nad6 rps3 nad2 nad3 atp9 cox2 nad4 nad4L nad5 cob
+>Hirsutella-vermicola
+cox1 nad1 atp8 atp6 rns cox3 nad6 rnl nad2 nad3 atp9 cox2 nad4 nad4L nad5 cob
+>Hyaloraphidium-curvatum
+cox1 cox3 atp9 rns rnl nad4 atp6 nad4L nad3 nad6 nad5 nad1 atp8 nad2 cob cox2
+>Hypomyces-aurantius
+cox1 nad1 atp8 atp6 rns cox3 nad6 rnl nad2 nad3 atp9 cox2 nad4 nad4L nad5 cob
+>Lecanicillium-muscarium
+cox1 nad1 ND1 atp8 atp6 rns cox3 nad6 ND6 rnl rps3 nad2 ND2 nad3 ND3 atp9 cox2 nad4 ND4 nad4L ND4L nad5 ND5 cob
+>Lecanicillium-saksenae
+['large subunit', 'ribosomal protein S3', 'NADH dehydrogenase subunit 2', 'NADH dehydrogenase subunit 3', 'cytochrome oxidase subunit I', 'cytochrome oxidase subunit II', 'NADH dehydrogenase subunit 4', 'NADH dehydrogenase subunit 4L', 'NADH dehydrogenase subunit 5', 'NADH dehydrogenase subunit 1', 'small subunit', 'cytochrome oxidase subunit III', 'NADH dehydrogenase subunit 6'] 
+
+>Lentinula-edodes
+cox1 nad1 atp8 rps3 nad2 nad3 atp9 cob cox2 nad6 atp6 cox3 nad4 nad4L nad5
+>Madurella-mycetomatis
+cox1 nad1 atp8 atp6 cox3 nad6 rps3 nad2 cox2 nad4 nad4L nad5 cob
+>Metarhizium-anisopliae
+cox1 nad1 atp8 atp6 rns cox3 nad6 rnl rps3 nad2 nad3 atp9 cox2 nad4 nad4L nad5 cob
+>Microbotryum-lychnidis-dioicae
+cox1 cox2 rns nad4 nad4L nad5 rps3 nad6 nad2 nad3 cox3 cob nad1 atp6 atp9 atp8
+>Microsporum-gypseum
+['NADH dehydrogenase subunit 2', 'NADH dehydrogenase subunit 1', 'NADH dehydrogenase subunit 4', 'ATP synthase subunit 6', 'NADH dehydrogenase subunit 6', 'ATP synthase subunit 8', 'ribosomal protein S5', 'ATP synthase subunit 9', 'NADH dehydrogenase subunit 4L', 'NADH dehydrogenase subunit 5'] 
+
+>Moniliophthora-perniciosa
+cox1 cox3 nad4 nad4L nad5 rns ATP9 nad6 ATP6 nad2 nad3 nad1 cob cox2 rps3 rnl ATP8
+>Moniliophthora-roreri
+cox1 cox3 nad4 nad4L nad5 rns atp9 nad6 atp6 nad2 nad3 nad1 cob cox2 rps3 rnl atp8
+>Monoblepharella-sp
+cox1 cob rnl nad1 rns nad2 nad3 atp9 cox2 nad4 nad4L nad6 atp8 atp6 cox3 nad5
+>Mortierella-verticillata
+cox1 atp6 cox3 nad4 cox2 nad1 cob nad5 nad4L rps3 nad6 rnl atp9 atp8 nad3 nad2 rns
+>Nectria-cinnabarina
+cox1 nad1 atp8 atp6 rns cox3 nad6 rnl rps3 nad2 nad3 atp9 cox2 nad4 nad4L nad5 cob
+>Neosartorya-fischeri
+['NADH dehydrogenase subunit 1', 'NADH dehydrogenase subunit 4', 'ATP synthase subunit 8', 'ATP synthase subunit 6', 'small subunit', 'NADH dehydrogenase subunit 6', 'cytochrome oxidase subunit 3', 'large subunit', 'ribosomal protein S5', 'cytochrome oxidase subunit 1', 'ATP synthase subunit 9', 'NADH dehydrogenase subunit 3', 'cytochrome oxidase subunit 2', 'NADH dehydrogenase subunit 4L', 'NADH dehydrogenase subunit 5', 'NADH dehydrogenase subunit 2'] 
+
+>Neurospora-crassa
+['NADH dehydrogenase subunit 2', 'cytochrome c oxidase subunit 3', 'NADH dehydrogenase subunit 6', 'ribosomal protein S5', 'NADH dehydrogenase subunit 3', 'NADH dehydrogenase subunit 4', 'NADH dehydrogenase subunit 4L', 'NADH dehydrogenase subunit 5', 'cytochrome c oxidase subunit 1', 'NADH dehydrogenase subunit 1', 'cytochrome c oxidase subunit 2'] 
+
+>Ophiocordyceps-sinensis
+cox1 nad1 atp8 atp6 cox3 nad6 rps3 nad2 nad3 atp9 cox2 nad4 nad4L nad5 cob
+>Paracoccidioides-brasiliensis
+cox1 atp9 cox2 nad4L nad5 nad2 cob nad3 nad1 nad4 atp8 atp6 nad6 cox3
+>Peltigera-malacea
+cox1 cox2 atp9 atp8 atp6 rns nad6 cox3 rnl rps3 nad2 nad3 nad4 nad4L nad5 nad1
+>Peltigera-membranacea
+cox1 cox2 atp9 atp8 atp6 rns nad6 cox3 rnl rps3 nad2 nad3 nad4 nad4L nad5 nad1
+>Penicillium-chrysogenum
+['ND4', 'ND4L']
+>Penicillium-digitatum
+['cytochrome c oxidase subunit 1', 'ATP synthase subunit 9', 'NADH dehydrogenase subunit 3', 'cytochrome c oxidase subunit 2', 'NADH dehydrogenase subunit 4', 'NADH dehydrogenase subunit 4L', 'NADH dehydrogenase subunit 5', 'NADH dehydrogenase subunit 2', 'NADH dehydrogenase subunit 1', 'ATP synthase subunit 8', 'ATP synthase subunit 6', 'small subunit', 'NADH dehydrogenase subunit 6', 'cytochrome c oxidase subunit 3', 'large subunit', 'ribosomal protein S5'] 
+
+>Penicillium-marneffi
+cox1 COX1 nad3 cox2 nad4 nad4L nad5 nad2 atp9 cob nad1 atp8 atp6 rns nad6 cox3 rnl
+>Penicillium-solitum
+cox1 atp9 nad3 cox2 nad4 nad4L nad5 nad2 cob nad1 atp8 atp6 rns nad6 cox3 rnl
+>Pestalotiopsis-fici
+cox1 nad1 atp8 atp6 rns nad6 cox3 rnl nad2 nad3 atp9 cox2 nad4 nad4L nad5 cob
+>Phakopsora-meibomiae
+cox1 nad6 nad1 nad4L nad5 atp9 nad2 nad3 atp8 atp6 cox2 cox3 nad4 cob rps3
+>Phakopsora-pachyrhizi
+cox1 COX1 nad6 nad1 nad4L nad5 atp9 ATP9 nad2 nad3 atp8 ATP8 atp6 ATP6 cox2 COX2 cox3 COX3 nad4 cob rps3 RPS3
+>Phialocephala-subalpina
+['COX1', 'ATP9', 'ND1', 'ND4', 'ATP8', 'ATP6', 'ND6', 'COX3', 'ND2', 'ND3', 'COX2', 'rps3', 'ND4L', 'ND5', 'CYTB']
+>Phlebia-radiata
+cox1 rnl atp6 cox2 cox3 nad4 nad4L nad5 atp8 nad2 nad3 atp9 rns cob nad6 nad1 rps3
+>Pleurotus-ostreatus
+cox1 nad4 nad6
+>Pneumocystis-carinii
+cox1 atp8 atp6 rnl cox3 atp9 nad4 nad4L nad5 cob nad2 nad3 cox2 rns nad6 nad1
+>Pochonia-chlamydosporia
+['NADH dehydrogenase subunit 4', 'small subunit', 'cytochrome oxidase subunit I', 'cytochrome oxidase subunit II', 'cytochrome oxidase subunit III', 'NADH dehydrogenase subunit 6', 'large subunit', 'ribosomal protein S3', 'NADH dehydrogenase subunit 2', 'NADH dehydrogenase subunit 3', 'NADH dehydrogenase subunit 4L', 'NADH dehydrogenase subunit 5', 'NADH dehydrogenase subunit 1'] 
+
+>Podospora-anserina
+cox1 nad4 nad4L nad5 cox2 atp8 nad1 rnl rps3 nad2 nad3 rns cox3 nad6 atp6 cob
+>Pseudogymnoascus-destructans
+cox1 atp8 nad4 nad5 cob nad1 atp6 rns nad6 cox3 rnl rps3 nad2 nad3 cox2
+>Rhizoctonia-solani
+['large subunit', 'ATP synthase subunit 6', 'small subunit', 'cytochrome oxidase subunit 2', 'NADH dehydrogenase subunit 1', 'NADH dehydrogenase subunit 4', 'ribosomal protein S3', 'NADH dehydrogenase subunit 2', 'NADH dehydrogenase subunit 3', 'cytochrome oxidase subunit 3', 'ATP synthase subunit 9', 'NADH dehydrogenase subunit 6', 'NADH dehydrogenase subunit 4L', 'NADH dehydrogenase subunit 5', 'cytochrome oxidase subunit 1', 'ATP synthase subunit 8'] 
+
+>Rhizophagus-irregularis
+cox1 atp6 nad2 nad6 cox3 rnl cox2 atp8 atp9 rns nad5 nad4 nad1
+>Rhizophydium-sp
+cox1 cox3 nad4 atp8 atp6 nad5 nad2 nad6 nad4L nad1 nad3 rnl rns atp9 cox2 cob
+>Rhizopus-oryzae
+cox1 nad2 nad3 nad5 nad4 nad4L atp8 atp6 cox2 cob cox3 atp9 nad1 nad6 rnl rns
+>Rhodotorula-taiwanensis
+cox1 ATP8 cob nad4 cox3 nad1 cox2 ATP9 nad4L nad5 ATP6 nad3 nad2 nad6
+>Rhynchosporium-commune
+cox1 nad1 nad4 atp8 atp6 nad6 cox3 nad2 nad3 cox2 nad4L nad5 cob
+>Schizophyllum-commune
+cox1 atp8 atp9 cox2 nad1 cob nad4 nad6 nad2 nad3 cox3 nad4L nad5 rnl rns atp6 rps3
+>Sclerotinia-borealis
+cox1 nad4 cob nad1 atp8 atp6 atp9 nad2 nad3 cox2 nad4L nad5 rns nad6 cox3 rnl rps3
+>Sclerotinia-sclerotiorum
+['NADH dehydrogenase subunit 2', 'NADH dehydrogenase subunit 5', 'NADH dehydrogenase subunit 6', 'ribosomal protein S5', 'cytochrome c oxidase subunit 1', 'NADH dehydrogenase subunit 4', 'NADH dehydrogenase subunit 1', 'ATP synthase subunit 6', 'NADH dehydrogenase subunit 3', 'cytochrome oxidase subunit 2'] 
+
+>Sordaria-macrospora
+cox1 nad1 atp8 atp6 cox2 cox3 nad6 nad2 nad3 nad4 nad4L cob
+>Spizellomyces-punctatus
+cox1 nad2 atp6 cox3 atp8 nad3 nad1 nad5 rnl rns cox2 cob nad4 nad4L nad6
+>Sporothrix-schenckii
+cox1 nad1 atp8 atp6 cox3 nad6 nad2 nad3 atp9 cox2 nad4 nad4L nad5 cob
+>Tilletia-indica
+['large subunit', 'NADH dehydrogenase subunit 6', 'NADH dehydrogenase subunit 1', 'small subunit', 'NADH dehydrogenase subunit 4', 'NADH dehydrogenase subunit 4L', 'NADH dehydrogenase subunit 5', 'NADH dehydrogenase subunit 3', 'NADH dehydrogenase subunit 2'] 
+
+>Tilletia-walkeri
+['rnl', 'ND6', 'ND1', 'COX3', 'rns', 'ND4', 'ND4L', 'ND5', 'ND3', 'ND2', 'ATP9', 'COX1', 'ATP8', 'ATP6', 'COX2']
+>Trametes-cingulata
+['NADH dehydrogenase subunit 4', 'NADH dehydrogenase subunit 2', 'NADH dehydrogenase subunit 3', 'ATP synthase subunit 9', 'ribosomal protein S3', 'NADH dehydrogenase subunit 6', 'ATP synthase subunit 6', 'NADH dehydrogenase subunit 4L', 'NADH dehydrogenase subunit 5', 'ATP synthase subunit 8', 'NADH dehydrogenase subunit 1'] 
+
+>Trichoderma-reesei
+COXI COXII COXIII ND6 ND2 ND3 ATP9 ND4L ND5 CYTB ND1 ND4 ATP8 ATP6
+>Trichophyton-mentagrophytes
+cox1 atp9 cox2 nad4 nad4L nad5 nad2 cob nad3 nad1 atp6 nad6 cox3 atp8
+>Trichophyton-rubrum
+cox1 atp9 cox2 nad4 nad4L nad5 nad2 cob nad3 nad1 atp6 nad6 cox3 atp8
+>Trichosporon-asahii
+[] 
+
+>Ustilago-maydis
+cox1 nad4 nad1 cox3 cob nad4L nad5 atp9 nad6 rnl rps3 nad2 nad3 cox2 atp6 atp8
+>Verticillium-dahliae
+cox1 rnl rps3 nad2 nad3 nad1 nad4 atp8 atp6 rns cox3 nad6 atp9 cox2 nad4L nad5 cob
+>Wickerhamomyces-canadensis
+['COX1', 'ATP8', 'ATP6', 'ND6', 'ND1', 'COX3', 'ND4', 'ND4L', 'ND5', 'CYTB', 'ND2', 'ND3', 'ATP9', 'COX2']
+>Zancudomyces-culisetae
+cox1 cox3 rnl rns atp8 nad2 nad5 cob rps3 atp6 atp9 cox2 nad4 nad6 nad3 nad4L nad1
+>Zasmidium-cellare
+cox1 atp9 rnl rns cox2 nad1 nad4 nad4L nad5 nad3 nad2 cob cox3 atp6 atp8 nad6
+>Zymoseptoria-tritici
+cox1 nad5 nad4 nad4L nad6 nad3 nad2 atp9 cox2 atp6 atp8 cox3 nad1
