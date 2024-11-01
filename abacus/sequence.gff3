@@ -1,0 +1,247 @@
+##sequence-region NC_020430.1 1 103147
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=386457
+NC_020430.1	RefSeq	region	1	103147	.	+	.	ID=id0;Dbxref=taxon:386457;Is_circular=true;Name=MT;gbkey=Src;genome=mitochondrion;mol_type=genomic DNA
+NC_020430.1	RefSeq	gene	22	8509	.	+	.	ID=gene0;Dbxref=GeneID:14675757;Name=rnl;gbkey=Gene;gene=rnl;gene_biotype=rRNA;locus_tag=I510r01
+NC_020430.1	RefSeq	rRNA	22	8509	.	+	.	ID=rna0;Parent=gene0;Dbxref=GeneID:14675757;gbkey=rRNA;gene=rnl;product=large subunit ribosomal RNA
+NC_020430.1	RefSeq	exon	22	1739	.	+	.	ID=id1;Parent=rna0;Dbxref=GeneID:14675757;gbkey=rRNA;gene=rnl;product=large subunit ribosomal RNA
+NC_020430.1	RefSeq	exon	4279	4979	.	+	.	ID=id2;Parent=rna0;Dbxref=GeneID:14675757;gbkey=rRNA;gene=rnl;product=large subunit ribosomal RNA
+NC_020430.1	RefSeq	exon	6623	6714	.	+	.	ID=id3;Parent=rna0;Dbxref=GeneID:14675757;gbkey=rRNA;gene=rnl;product=large subunit ribosomal RNA
+NC_020430.1	RefSeq	exon	8009	8509	.	+	.	ID=id4;Parent=rna0;Dbxref=GeneID:14675757;gbkey=rRNA;gene=rnl;product=large subunit ribosomal RNA
+NC_020430.1	RefSeq	gene	2725	3984	.	+	.	ID=gene1;Dbxref=GeneID:14675756;Name=oi1rnl;gbkey=Gene;gene=oi1rnl;gene_biotype=protein_coding;locus_tag=I510p03
+NC_020430.1	RefSeq	CDS	2725	3984	.	+	0	ID=cds0;Parent=gene1;Dbxref=Genbank:YP_007507038.1,GeneID:14675756;Name=YP_007507038.1;gbkey=CDS;gene=oi1rnl;product=intronic ORF at intron 1 of rnl;protein_id=YP_007507038.1;transl_table=4
+NC_020430.1	RefSeq	gene	5158	6444	.	+	.	ID=gene2;Dbxref=GeneID:14675752;Name=rps3;gbkey=Gene;gene=rps3;gene_biotype=protein_coding;locus_tag=I510p53
+NC_020430.1	RefSeq	CDS	5158	6444	.	+	0	ID=cds1;Parent=gene2;Dbxref=Genbank:YP_007507039.1,GeneID:14675752;Name=YP_007507039.1;gbkey=CDS;gene=rps3;product=ribosomal protein 3;protein_id=YP_007507039.1;transl_table=4
+NC_020430.1	RefSeq	gene	7100	7747	.	+	.	ID=gene3;Dbxref=GeneID:14675702;Name=oi3rnl;gbkey=Gene;gene=oi3rnl;gene_biotype=protein_coding;locus_tag=I510p02
+NC_020430.1	RefSeq	CDS	7100	7747	.	+	0	ID=cds2;Parent=gene3;Dbxref=Genbank:YP_007507040.1,GeneID:14675702;Name=YP_007507040.1;gbkey=CDS;gene=oi3rnl;product=intronic ORF at intron 3 of rnl;protein_id=YP_007507040.1;transl_table=4
+NC_020430.1	RefSeq	gene	8526	8598	.	+	.	ID=gene4;Dbxref=GeneID:14675753;Name=trnT;gbkey=Gene;gene=trnT;gene_biotype=tRNA;locus_tag=I510t10
+NC_020430.1	RefSeq	tRNA	8526	8598	.	+	.	ID=rna1;Parent=gene4;Dbxref=GeneID:14675753;anticodon=(pos:8558..8560);codons=38;gbkey=tRNA;gene=trnT;product=tRNA-Thr
+NC_020430.1	RefSeq	exon	8526	8598	.	+	.	ID=id5;Parent=rna1;Dbxref=GeneID:14675753;anticodon=(pos:8558..8560);codons=38;gbkey=tRNA;gene=trnT;product=tRNA-Thr
+NC_020430.1	RefSeq	gene	9006	9078	.	+	.	ID=gene5;Dbxref=GeneID:14675691;Name=trnE;gbkey=Gene;gene=trnE;gene_biotype=tRNA;locus_tag=I510t08
+NC_020430.1	RefSeq	tRNA	9006	9078	.	+	.	ID=rna2;Parent=gene5;Dbxref=GeneID:14675691;anticodon=(pos:9038..9040);codons=58;gbkey=tRNA;gene=trnE;product=tRNA-Glu
+NC_020430.1	RefSeq	exon	9006	9078	.	+	.	ID=id6;Parent=rna2;Dbxref=GeneID:14675691;anticodon=(pos:9038..9040);codons=58;gbkey=tRNA;gene=trnE;product=tRNA-Glu
+NC_020430.1	RefSeq	gene	9080	9152	.	+	.	ID=gene6;Dbxref=GeneID:14675692;Name=trnL1;gbkey=Gene;gene=trnL1;gene_biotype=tRNA;locus_tag=I510t07
+NC_020430.1	RefSeq	tRNA	9080	9152	.	+	.	ID=rna3;Parent=gene6;Dbxref=GeneID:14675692;anticodon=(pos:9112..9114);codons=16;gbkey=tRNA;gene=trnL1;product=tRNA-Leu
+NC_020430.1	RefSeq	exon	9080	9152	.	+	.	ID=id7;Parent=rna3;Dbxref=GeneID:14675692;anticodon=(pos:9112..9114);codons=16;gbkey=tRNA;gene=trnL1;product=tRNA-Leu
+NC_020430.1	RefSeq	gene	9919	9992	.	+	.	ID=gene7;Dbxref=GeneID:14675693;Name=trnM4;gbkey=Gene;gene=trnM4;gene_biotype=tRNA;locus_tag=I510t06
+NC_020430.1	RefSeq	tRNA	9919	9992	.	+	.	ID=rna4;Parent=gene7;Dbxref=GeneID:14675693;anticodon=(pos:9952..9954);codons=35;gbkey=tRNA;gene=trnM4;product=tRNA-Met
+NC_020430.1	RefSeq	exon	9919	9992	.	+	.	ID=id8;Parent=rna4;Dbxref=GeneID:14675693;anticodon=(pos:9952..9954);codons=35;gbkey=tRNA;gene=trnM4;product=tRNA-Met
+NC_020430.1	RefSeq	gene	10662	10744	.	+	.	ID=gene8;Dbxref=GeneID:14675694;Name=trnL2;gbkey=Gene;gene=trnL2;gene_biotype=tRNA;locus_tag=I510t05
+NC_020430.1	RefSeq	tRNA	10662	10744	.	+	.	ID=rna5;Parent=gene8;Dbxref=GeneID:14675694;anticodon=(pos:10696..10698);codons=2;gbkey=tRNA;gene=trnL2;product=tRNA-Leu
+NC_020430.1	RefSeq	exon	10662	10744	.	+	.	ID=id9;Parent=rna5;Dbxref=GeneID:14675694;anticodon=(pos:10696..10698);codons=2;gbkey=tRNA;gene=trnL2;product=tRNA-Leu
+NC_020430.1	RefSeq	gene	12234	12304	.	+	.	ID=gene9;Dbxref=GeneID:14675695;Name=trnA;gbkey=Gene;gene=trnA;gene_biotype=tRNA;locus_tag=I510t04
+NC_020430.1	RefSeq	tRNA	12234	12304	.	+	.	ID=rna6;Parent=gene9;Dbxref=GeneID:14675695;gbkey=tRNA;gene=trnA;product=tRNA-Ala
+NC_020430.1	RefSeq	exon	12234	12304	.	+	.	ID=id10;Parent=rna6;Dbxref=GeneID:14675695;gbkey=tRNA;gene=trnA;product=tRNA-Ala
+NC_020430.1	RefSeq	gene	12308	12380	.	+	.	ID=gene10;Dbxref=GeneID:14675696;Name=trnF;gbkey=Gene;gene=trnF;gene_biotype=tRNA;locus_tag=I510t03
+NC_020430.1	RefSeq	tRNA	12308	12380	.	+	.	ID=rna7;Parent=gene10;Dbxref=GeneID:14675696;anticodon=(pos:12340..12342);codons=1;gbkey=tRNA;gene=trnF;product=tRNA-Phe
+NC_020430.1	RefSeq	exon	12308	12380	.	+	.	ID=id11;Parent=rna7;Dbxref=GeneID:14675696;anticodon=(pos:12340..12342);codons=1;gbkey=tRNA;gene=trnF;product=tRNA-Phe
+NC_020430.1	RefSeq	gene	12382	12461	.	+	.	ID=gene11;Dbxref=GeneID:14675697;Name=trnL3;gbkey=Gene;gene=trnL3;gene_biotype=tRNA;locus_tag=I510t02
+NC_020430.1	RefSeq	tRNA	12382	12461	.	+	.	ID=rna8;Parent=gene11;Dbxref=GeneID:14675697;anticodon=(pos:12413..12415);codons=18;gbkey=tRNA;gene=trnL3;product=tRNA-Leu
+NC_020430.1	RefSeq	exon	12382	12461	.	+	.	ID=id12;Parent=rna8;Dbxref=GeneID:14675697;anticodon=(pos:12413..12415);codons=18;gbkey=tRNA;gene=trnL3;product=tRNA-Leu
+NC_020430.1	RefSeq	pseudogene	13156	13914	.	+	.	ID=gene12;Dbxref=GeneID:14675698;Name=GIY-YIG;Note=similar to intronic orf 231 from cob gene of Podospora anserina mtDNA;description=GIY-YIG;gbkey=Gene;gene=GIY-YIG;gene_biotype=pseudogene;locus_tag=I510p01;pseudo=true;pseudogene=unknown
+NC_020430.1	RefSeq	gene	14484	14566	.	+	.	ID=gene13;Dbxref=GeneID:14675754;Name=trnL4;gbkey=Gene;gene=trnL4;gene_biotype=tRNA;locus_tag=I510t01
+NC_020430.1	RefSeq	tRNA	14484	14566	.	+	.	ID=rna9;Parent=gene13;Dbxref=GeneID:14675754;anticodon=(pos:14516..14518);codons=18;gbkey=tRNA;gene=trnL4;product=tRNA-Leu
+NC_020430.1	RefSeq	exon	14484	14566	.	+	.	ID=id13;Parent=rna9;Dbxref=GeneID:14675754;anticodon=(pos:14516..14518);codons=18;gbkey=tRNA;gene=trnL4;product=tRNA-Leu
+NC_020430.1	RefSeq	gene	16405	16477	.	+	.	ID=gene14;Dbxref=GeneID:14675699;Name=trnQ;gbkey=Gene;gene=trnQ;gene_biotype=tRNA;locus_tag=I510t16
+NC_020430.1	RefSeq	tRNA	16405	16477	.	+	.	ID=rna10;Parent=gene14;Dbxref=GeneID:14675699;anticodon=(pos:16437..16439);codons=26;gbkey=tRNA;gene=trnQ;product=tRNA-Gln
+NC_020430.1	RefSeq	exon	16405	16477	.	+	.	ID=id14;Parent=rna10;Dbxref=GeneID:14675699;anticodon=(pos:16437..16439);codons=26;gbkey=tRNA;gene=trnQ;product=tRNA-Gln
+NC_020430.1	RefSeq	gene	17856	17929	.	+	.	ID=gene15;Dbxref=GeneID:14675672;Name=trnH;gbkey=Gene;gene=trnH;gene_biotype=tRNA;locus_tag=I510t15
+NC_020430.1	RefSeq	tRNA	17856	17929	.	+	.	ID=rna11;Parent=gene15;Dbxref=GeneID:14675672;anticodon=(pos:17889..17891);codons=25;gbkey=tRNA;gene=trnH;product=tRNA-His
+NC_020430.1	RefSeq	exon	17856	17929	.	+	.	ID=id15;Parent=rna11;Dbxref=GeneID:14675672;anticodon=(pos:17889..17891);codons=25;gbkey=tRNA;gene=trnH;product=tRNA-His
+NC_020430.1	RefSeq	gene	18017	18087	.	+	.	ID=gene16;Dbxref=GeneID:14675673;Name=trnM1;gbkey=Gene;gene=trnM1;gene_biotype=tRNA;locus_tag=I510t14
+NC_020430.1	RefSeq	tRNA	18017	18087	.	+	.	ID=rna12;Parent=gene16;Dbxref=GeneID:14675673;anticodon=(pos:18048..18050);codons=35;gbkey=tRNA;gene=trnM1;product=tRNA-Met
+NC_020430.1	RefSeq	exon	18017	18087	.	+	.	ID=id16;Parent=rna12;Dbxref=GeneID:14675673;anticodon=(pos:18048..18050);codons=35;gbkey=tRNA;gene=trnM1;product=tRNA-Met
+NC_020430.1	RefSeq	gene	18571	18658	.	+	.	ID=gene17;Dbxref=GeneID:14675674;Name=trnM2;gbkey=Gene;gene=trnM2;gene_biotype=tRNA;locus_tag=I510t12
+NC_020430.1	RefSeq	tRNA	18571	18658	.	+	.	ID=rna13;Parent=gene17;Dbxref=GeneID:14675674;anticodon=(pos:18606..18608);codons=35;gbkey=tRNA;gene=trnM2;product=tRNA-Met
+NC_020430.1	RefSeq	exon	18571	18609	.	+	.	ID=id17;Parent=rna13;Dbxref=GeneID:14675674;anticodon=(pos:18606..18608);codons=35;gbkey=tRNA;gene=trnM2;product=tRNA-Met
+NC_020430.1	RefSeq	exon	18621	18658	.	+	.	ID=id18;Parent=rna13;Dbxref=GeneID:14675674;anticodon=(pos:18606..18608);codons=35;gbkey=tRNA;gene=trnM2;product=tRNA-Met
+NC_020430.1	RefSeq	gene	18660	20330	.	+	.	ID=gene18;Dbxref=GeneID:14675677;Name=nad2;gbkey=Gene;gene=nad2;gene_biotype=protein_coding;locus_tag=I510p54
+NC_020430.1	RefSeq	CDS	18660	20330	.	+	0	ID=cds3;Parent=gene18;Dbxref=Genbank:YP_007507041.1,GeneID:14675677;Name=YP_007507041.1;gbkey=CDS;gene=nad2;product=NADH dehydrogenase subunit 2;protein_id=YP_007507041.1;transl_table=4
+NC_020430.1	RefSeq	gene	20282	20746	.	+	.	ID=gene19;Dbxref=GeneID:14675701;Name=nad3;gbkey=Gene;gene=nad3;gene_biotype=protein_coding;locus_tag=I510p52
+NC_020430.1	RefSeq	CDS	20282	20746	.	+	0	ID=cds4;Parent=gene19;Dbxref=Genbank:YP_007507042.1,GeneID:14675701;Name=YP_007507042.1;gbkey=CDS;gene=nad3;product=NADH dehydrogenase subunit 3;protein_id=YP_007507042.1;transl_table=4
+NC_020430.1	RefSeq	gene	20963	21187	.	+	.	ID=gene20;Dbxref=GeneID:14675703;Name=atp9;gbkey=Gene;gene=atp9;gene_biotype=protein_coding;locus_tag=I510p40
+NC_020430.1	RefSeq	CDS	20963	21187	.	+	0	ID=cds5;Parent=gene20;Dbxref=Genbank:YP_007507043.1,GeneID:14675703;Name=YP_007507043.1;gbkey=CDS;gene=atp9;product=ATP synthase subunit 9;protein_id=YP_007507043.1;transl_table=4
+NC_020430.1	RefSeq	gene	21252	31422	.	+	.	ID=gene21;Dbxref=GeneID:14675715;Name=cox2;gbkey=Gene;gene=cox2;gene_biotype=protein_coding;locus_tag=I510p51
+NC_020430.1	RefSeq	CDS	21252	21442	.	+	0	ID=cds6;Parent=gene21;Dbxref=Genbank:YP_007507044.1,GeneID:14675715;Name=YP_007507044.1;gbkey=CDS;gene=cox2;product=cytochrome c oxidase subunit 2;protein_id=YP_007507044.1;transl_table=4
+NC_020430.1	RefSeq	CDS	22782	22818	.	+	1	ID=cds6;Parent=gene21;Dbxref=Genbank:YP_007507044.1,GeneID:14675715;Name=YP_007507044.1;gbkey=CDS;gene=cox2;product=cytochrome c oxidase subunit 2;protein_id=YP_007507044.1;transl_table=4
+NC_020430.1	RefSeq	CDS	24254	24344	.	+	0	ID=cds6;Parent=gene21;Dbxref=Genbank:YP_007507044.1,GeneID:14675715;Name=YP_007507044.1;gbkey=CDS;gene=cox2;product=cytochrome c oxidase subunit 2;protein_id=YP_007507044.1;transl_table=4
+NC_020430.1	RefSeq	CDS	26251	26290	.	+	2	ID=cds6;Parent=gene21;Dbxref=Genbank:YP_007507044.1,GeneID:14675715;Name=YP_007507044.1;gbkey=CDS;gene=cox2;product=cytochrome c oxidase subunit 2;protein_id=YP_007507044.1;transl_table=4
+NC_020430.1	RefSeq	CDS	27467	27663	.	+	1	ID=cds6;Parent=gene21;Dbxref=Genbank:YP_007507044.1,GeneID:14675715;Name=YP_007507044.1;gbkey=CDS;gene=cox2;product=cytochrome c oxidase subunit 2;protein_id=YP_007507044.1;transl_table=4
+NC_020430.1	RefSeq	CDS	29234	29333	.	+	2	ID=cds6;Parent=gene21;Dbxref=Genbank:YP_007507044.1,GeneID:14675715;Name=YP_007507044.1;gbkey=CDS;gene=cox2;product=cytochrome c oxidase subunit 2;protein_id=YP_007507044.1;transl_table=4
+NC_020430.1	RefSeq	CDS	31320	31422	.	+	1	ID=cds6;Parent=gene21;Dbxref=Genbank:YP_007507044.1,GeneID:14675715;Name=YP_007507044.1;gbkey=CDS;gene=cox2;product=cytochrome c oxidase subunit 2;protein_id=YP_007507044.1;transl_table=4
+NC_020430.1	RefSeq	gene	21450	22709	.	+	.	ID=gene22;Dbxref=GeneID:14675704;Name=oi1cox2;gbkey=Gene;gene=oi1cox2;gene_biotype=protein_coding;locus_tag=I510p39
+NC_020430.1	RefSeq	CDS	21450	22709	.	+	0	ID=cds7;Parent=gene22;Dbxref=Genbank:YP_007507045.1,GeneID:14675704;Name=YP_007507045.1;Note=intronic ORF at intron 1 of cox2;gbkey=CDS;gene=oi1cox2;product=hypothetical protein;protein_id=YP_007507045.1;transl_table=4
+NC_020430.1	RefSeq	gene	22954	23700	.	+	.	ID=gene23;Dbxref=GeneID:14675716;Name=oi2cox2;gbkey=Gene;gene=oi2cox2;gene_biotype=protein_coding;locus_tag=I510p38
+NC_020430.1	RefSeq	CDS	22954	23700	.	+	0	ID=cds8;Parent=gene23;Dbxref=Genbank:YP_007507046.1,GeneID:14675716;Name=YP_007507046.1;Note=intronic ORF at intron 2 of cox2;gbkey=CDS;gene=oi2cox2;product=GIY endonuclease;protein_id=YP_007507046.1;transl_table=4
+NC_020430.1	RefSeq	gene	24763	26115	.	+	.	ID=gene24;Dbxref=GeneID:14675717;Name=oi3cox2;gbkey=Gene;gene=oi3cox2;gene_biotype=protein_coding;locus_tag=I510p37
+NC_020430.1	RefSeq	CDS	24763	26115	.	+	0	ID=cds9;Parent=gene24;Dbxref=Genbank:YP_007507047.1,GeneID:14675717;Name=YP_007507047.1;Note=intronic ORF at intron 3 of cox2;gbkey=CDS;gene=oi3cox2;product=LAGLIDADG endonuclease;protein_id=YP_007507047.1;transl_table=4
+NC_020430.1	RefSeq	gene	26310	27074	.	+	.	ID=gene25;Dbxref=GeneID:14675718;Name=oi4cox2;gbkey=Gene;gene=oi4cox2;gene_biotype=protein_coding;locus_tag=I510p36
+NC_020430.1	RefSeq	CDS	26310	27074	.	+	0	ID=cds10;Parent=gene25;Dbxref=Genbank:YP_007507048.1,GeneID:14675718;Name=YP_007507048.1;Note=intronic ORF at intron 4 of cox2;gbkey=CDS;gene=oi4cox2;product=LAGLIDADG endonuclease;protein_id=YP_007507048.1;transl_table=4
+NC_020430.1	RefSeq	gene	28257	29207	.	+	.	ID=gene26;Dbxref=GeneID:14675719;Name=oi5cox2;gbkey=Gene;gene=oi5cox2;gene_biotype=protein_coding;locus_tag=I510p35
+NC_020430.1	RefSeq	CDS	28257	29207	.	+	0	ID=cds11;Parent=gene26;Dbxref=Genbank:YP_007507049.1,GeneID:14675719;Name=YP_007507049.1;Note=intronic ORF at intron 5 of cox2;gbkey=CDS;gene=oi5cox2;product=GIY protein;protein_id=YP_007507049.1;transl_table=4
+NC_020430.1	RefSeq	gene	29841	31244	.	+	.	ID=gene27;Dbxref=GeneID:14675720;Name=oi6cox2;gbkey=Gene;gene=oi6cox2;gene_biotype=protein_coding;locus_tag=I510p34
+NC_020430.1	RefSeq	CDS	29841	31244	.	+	0	ID=cds12;Parent=gene27;Dbxref=Genbank:YP_007507050.1,GeneID:14675720;Name=YP_007507050.1;Note=intronic ORF at intron 6 of cox2;gbkey=CDS;gene=oi6cox2;product=GIY endonuclease;protein_id=YP_007507050.1;transl_table=4
+NC_020430.1	RefSeq	pseudogene	31681	33345	.	+	.	ID=gene28;Dbxref=GeneID:14675721;Name=rnapol;Note=similar to DNA-directed RNA polymerase (EC 2.7.7.6) from Podospora anserina mitochondrial plasmid pAL2 (accession number S26945);gbkey=Gene;gene=rnapol;gene_biotype=pseudogene;locus_tag=I510p33;pseudo=true;pseudogene=unknown
+NC_020430.1	RefSeq	gene	34164	34236	.	+	.	ID=gene29;Dbxref=GeneID:14675722;Name=trnR1;gbkey=Gene;gene=trnR1;gene_biotype=tRNA;locus_tag=I510t13
+NC_020430.1	RefSeq	tRNA	34164	34236	.	+	.	ID=rna14;Parent=gene29;Dbxref=GeneID:14675722;anticodon=(pos:34197..34199);codons=28;gbkey=tRNA;gene=trnR1;product=tRNA-Arg
+NC_020430.1	RefSeq	exon	34164	34236	.	+	.	ID=id19;Parent=rna14;Dbxref=GeneID:14675722;anticodon=(pos:34197..34199);codons=28;gbkey=tRNA;gene=trnR1;product=tRNA-Arg
+NC_020430.1	RefSeq	gene	34299	35633	.	+	.	ID=gene30;Dbxref=GeneID:14675675;Name=nad4L;gbkey=Gene;gene=nad4L;gene_biotype=protein_coding;locus_tag=I510p49
+NC_020430.1	RefSeq	CDS	34299	34539	.	+	0	ID=cds13;Parent=gene30;Dbxref=Genbank:YP_007507051.1,GeneID:14675675;Name=YP_007507051.1;gbkey=CDS;gene=nad4L;product=NADH dehydrogenase subunit H dehydrogenase subunit 4;protein_id=YP_007507051.1;transl_table=4
+NC_020430.1	RefSeq	CDS	35614	35633	.	+	2	ID=cds13;Parent=gene30;Dbxref=Genbank:YP_007507051.1,GeneID:14675675;Name=YP_007507051.1;gbkey=CDS;gene=nad4L;product=NADH dehydrogenase subunit H dehydrogenase subunit 4;protein_id=YP_007507051.1;transl_table=4
+NC_020430.1	RefSeq	gene	34629	35591	.	+	.	ID=gene31;Dbxref=GeneID:14675706;Name=oi1nad4L;gbkey=Gene;gene=oi1nad4L;gene_biotype=protein_coding;locus_tag=I510p32
+NC_020430.1	RefSeq	CDS	34629	35591	.	+	0	ID=cds14;Parent=gene31;Dbxref=Genbank:YP_007507052.1,GeneID:14675706;Name=YP_007507052.1;Note=intronic ORF at intron 1 of nad4L;gbkey=CDS;gene=oi1nad4L;product=endonuclease-like protein;protein_id=YP_007507052.1;transl_table=4
+NC_020430.1	RefSeq	gene	36003	50959	.	+	.	ID=gene32;Dbxref=GeneID:14675723;Name=nad5;gbkey=Gene;gene=nad5;gene_biotype=protein_coding;locus_tag=I510p48
+NC_020430.1	RefSeq	CDS	36003	36267	.	+	0	ID=cds15;Parent=gene32;Dbxref=Genbank:YP_007507053.1,GeneID:14675723;Name=YP_007507053.1;gbkey=CDS;gene=nad5;product=NADH dehydrogenase subunit H dehydrogenase subunit 5;protein_id=YP_007507053.1;transl_table=4
+NC_020430.1	RefSeq	CDS	40001	40063	.	+	2	ID=cds15;Parent=gene32;Dbxref=Genbank:YP_007507053.1,GeneID:14675723;Name=YP_007507053.1;gbkey=CDS;gene=nad5;product=NADH dehydrogenase subunit H dehydrogenase subunit 5;protein_id=YP_007507053.1;transl_table=4
+NC_020430.1	RefSeq	CDS	41447	41868	.	+	2	ID=cds15;Parent=gene32;Dbxref=Genbank:YP_007507053.1,GeneID:14675723;Name=YP_007507053.1;gbkey=CDS;gene=nad5;product=NADH dehydrogenase subunit H dehydrogenase subunit 5;protein_id=YP_007507053.1;transl_table=4
+NC_020430.1	RefSeq	CDS	42262	42276	.	+	0	ID=cds15;Parent=gene32;Dbxref=Genbank:YP_007507053.1,GeneID:14675723;Name=YP_007507053.1;gbkey=CDS;gene=nad5;product=NADH dehydrogenase subunit H dehydrogenase subunit 5;protein_id=YP_007507053.1;transl_table=4
+NC_020430.1	RefSeq	CDS	44413	44575	.	+	0	ID=cds15;Parent=gene32;Dbxref=Genbank:YP_007507053.1,GeneID:14675723;Name=YP_007507053.1;gbkey=CDS;gene=nad5;product=NADH dehydrogenase subunit H dehydrogenase subunit 5;protein_id=YP_007507053.1;transl_table=4
+NC_020430.1	RefSeq	CDS	45807	45881	.	+	2	ID=cds15;Parent=gene32;Dbxref=Genbank:YP_007507053.1,GeneID:14675723;Name=YP_007507053.1;gbkey=CDS;gene=nad5;product=NADH dehydrogenase subunit H dehydrogenase subunit 5;protein_id=YP_007507053.1;transl_table=4
+NC_020430.1	RefSeq	CDS	48074	48139	.	+	2	ID=cds15;Parent=gene32;Dbxref=Genbank:YP_007507053.1,GeneID:14675723;Name=YP_007507053.1;gbkey=CDS;gene=nad5;product=NADH dehydrogenase subunit H dehydrogenase subunit 5;protein_id=YP_007507053.1;transl_table=4
+NC_020430.1	RefSeq	CDS	50049	50959	.	+	2	ID=cds15;Parent=gene32;Dbxref=Genbank:YP_007507053.1,GeneID:14675723;Name=YP_007507053.1;gbkey=CDS;gene=nad5;product=NADH dehydrogenase subunit H dehydrogenase subunit 5;protein_id=YP_007507053.1;transl_table=4
+NC_020430.1	RefSeq	gene	36270	37730	.	+	.	ID=gene33;Dbxref=GeneID:14675707;Name=oi1nad5;gbkey=Gene;gene=oi1nad5;gene_biotype=protein_coding;locus_tag=I510p31
+NC_020430.1	RefSeq	CDS	36270	37730	.	+	0	ID=cds16;Parent=gene33;Dbxref=Genbank:YP_007507054.1,GeneID:14675707;Name=YP_007507054.1;Note=intronic ORF at intron 1 of nad5;gbkey=CDS;gene=oi1nad5;product=LAGLIDADG endonuclease;protein_id=YP_007507054.1;transl_table=4
+NC_020430.1	RefSeq	gene	38449	39369	.	+	.	ID=gene34;Dbxref=GeneID:14675724;Name=oi1_2nad5;gbkey=Gene;gene=oi1_2nad5;gene_biotype=protein_coding;locus_tag=I510p30
+NC_020430.1	RefSeq	CDS	38449	39369	.	+	0	ID=cds17;Parent=gene34;Dbxref=Genbank:YP_007507055.1,GeneID:14675724;Name=YP_007507055.1;Note=intronic ORF 2 at intron 1 of nad5;gbkey=CDS;gene=oi1_2nad5;product=LAGLIDADG endonuclease;protein_id=YP_007507055.1;transl_table=4
+NC_020430.1	RefSeq	gene	40075	41343	.	+	.	ID=gene35;Dbxref=GeneID:14675725;Name=oi2nad5;gbkey=Gene;gene=oi2nad5;gene_biotype=protein_coding;locus_tag=I510p29
+NC_020430.1	RefSeq	CDS	40075	41343	.	+	0	ID=cds18;Parent=gene35;Dbxref=Genbank:YP_007507056.1,GeneID:14675725;Name=YP_007507056.1;Note=intronic ORF at intron 2 of nad5;gbkey=CDS;gene=oi2nad5;product=LAGLIDADG endonuclease;protein_id=YP_007507056.1;transl_table=4
+NC_020430.1	RefSeq	gene	42268	43212	.	+	.	ID=gene36;Dbxref=GeneID:14675726;Name=oi3nad5;gbkey=Gene;gene=oi3nad5;gene_biotype=protein_coding;locus_tag=I510p28
+NC_020430.1	RefSeq	CDS	42268	43212	.	+	0	ID=cds19;Parent=gene36;Dbxref=Genbank:YP_007507057.1,GeneID:14675726;Name=YP_007507057.1;Note=intronic ORF at intron 3 of nad5;gbkey=CDS;gene=oi3nad5;product=hypothetical protein;protein_id=YP_007507057.1;transl_table=4
+NC_020430.1	RefSeq	gene	43389	44324	.	+	.	ID=gene37;Dbxref=GeneID:14675727;Name=oi4nad5;gbkey=Gene;gene=oi4nad5;gene_biotype=protein_coding;locus_tag=I510p27
+NC_020430.1	RefSeq	CDS	43389	44324	.	+	0	ID=cds20;Parent=gene37;Dbxref=Genbank:YP_007507058.1,GeneID:14675727;Name=YP_007507058.1;Note=intronic ORF 2 at intron 3 of nad5;gbkey=CDS;gene=oi4nad5;product=endonuclease;protein_id=YP_007507058.1;transl_table=4
+NC_020430.1	RefSeq	gene	44761	45756	.	+	.	ID=gene38;Dbxref=GeneID:14675728;Name=Oi5nad5;gbkey=Gene;gene=Oi5nad5;gene_biotype=protein_coding;locus_tag=I510p26
+NC_020430.1	RefSeq	CDS	44761	45756	.	+	0	ID=cds21;Parent=gene38;Dbxref=Genbank:YP_007507059.1,GeneID:14675728;Name=YP_007507059.1;Note=intronic ORF at intron 4 of nad5;gbkey=CDS;gene=Oi5nad5;product=LAGLIDADG endonuclease;protein_id=YP_007507059.1;transl_table=4
+NC_020430.1	RefSeq	gene	46590	48059	.	+	.	ID=gene39;Dbxref=GeneID:14675729;Name=oi6nad5;gbkey=Gene;gene=oi6nad5;gene_biotype=protein_coding;locus_tag=I510p25
+NC_020430.1	RefSeq	CDS	46590	48059	.	+	0	ID=cds22;Parent=gene39;Dbxref=Genbank:YP_007507060.1,GeneID:14675729;Name=YP_007507060.1;Note=intronic ORF at intron 5 of nad5;gbkey=CDS;gene=oi6nad5;product=hypothetical protein;protein_id=YP_007507060.1;transl_table=4
+NC_020430.1	RefSeq	gene	48991	49374	.	+	.	ID=gene40;Dbxref=GeneID:14675730;Name=oi7nad5;gbkey=Gene;gene=oi7nad5;gene_biotype=protein_coding;locus_tag=I510p24
+NC_020430.1	RefSeq	CDS	48991	49374	.	+	0	ID=cds23;Parent=gene40;Dbxref=Genbank:YP_007507061.1,GeneID:14675730;Name=YP_007507061.1;Note=intronic ORF at intron 6 of nad5;gbkey=CDS;gene=oi7nad5;product=hypothetical protein;protein_id=YP_007507061.1;transl_table=4
+NC_020430.1	RefSeq	gene	51981	52053	.	+	.	ID=gene41;Dbxref=GeneID:14675731;Name=trnC;gbkey=Gene;gene=trnC;gene_biotype=tRNA;locus_tag=I510t11
+NC_020430.1	RefSeq	tRNA	51981	52053	.	+	.	ID=rna15;Parent=gene41;Dbxref=GeneID:14675731;anticodon=(pos:52011..52013);codons=13;gbkey=tRNA;gene=trnC;product=tRNA-Cys
+NC_020430.1	RefSeq	exon	51981	52053	.	+	.	ID=id20;Parent=rna15;Dbxref=GeneID:14675731;anticodon=(pos:52011..52013);codons=13;gbkey=tRNA;gene=trnC;product=tRNA-Cys
+NC_020430.1	RefSeq	gene	52174	56152	.	+	.	ID=gene42;Dbxref=GeneID:14675678;Name=cob;gbkey=Gene;gene=cob;gene_biotype=protein_coding;locus_tag=I510p47
+NC_020430.1	RefSeq	CDS	52174	52378	.	+	0	ID=cds24;Parent=gene42;Dbxref=Genbank:YP_007507062.1,GeneID:14675678;Name=YP_007507062.1;gbkey=CDS;gene=cob;product=apocytochrome b;protein_id=YP_007507062.1;transl_table=4
+NC_020430.1	RefSeq	CDS	53964	54251	.	+	2	ID=cds24;Parent=gene42;Dbxref=Genbank:YP_007507062.1,GeneID:14675678;Name=YP_007507062.1;gbkey=CDS;gene=cob;product=apocytochrome b;protein_id=YP_007507062.1;transl_table=4
+NC_020430.1	RefSeq	CDS	55470	56152	.	+	2	ID=cds24;Parent=gene42;Dbxref=Genbank:YP_007507062.1,GeneID:14675678;Name=YP_007507062.1;gbkey=CDS;gene=cob;product=apocytochrome b;protein_id=YP_007507062.1;transl_table=4
+NC_020430.1	RefSeq	gene	52568	53923	.	+	.	ID=gene43;Dbxref=GeneID:14675708;Name=oi1cob;gbkey=Gene;gene=oi1cob;gene_biotype=protein_coding;locus_tag=I510p23
+NC_020430.1	RefSeq	CDS	52568	53923	.	+	0	ID=cds25;Parent=gene43;Dbxref=Genbank:YP_007507063.1,GeneID:14675708;Name=YP_007507063.1;Note=intronic ORF at intron 1 of cob;gbkey=CDS;gene=oi1cob;product=LAGLIDADG endonuclease;protein_id=YP_007507063.1;transl_table=4
+NC_020430.1	RefSeq	gene	54293	55174	.	+	.	ID=gene44;Dbxref=GeneID:14675732;Name=Oi2cob;gbkey=Gene;gene=Oi2cob;gene_biotype=protein_coding;locus_tag=I510p22
+NC_020430.1	RefSeq	CDS	54293	55174	.	+	0	ID=cds26;Parent=gene44;Dbxref=Genbank:YP_007507064.1,GeneID:14675732;Name=YP_007507064.1;Note=intronic ORF at intron 2 of cob;gbkey=CDS;gene=Oi2cob;product=LAGLIDADG endonuclease;protein_id=YP_007507064.1;transl_table=4
+NC_020430.1	RefSeq	gene	56770	70773	.	+	.	ID=gene45;Dbxref=GeneID:14675733;Name=cox1;gbkey=Gene;gene=cox1;gene_biotype=protein_coding;locus_tag=I510p46
+NC_020430.1	RefSeq	CDS	56770	56988	.	+	0	ID=cds27;Parent=gene45;Dbxref=Genbank:YP_007507065.1,GeneID:14675733;Name=YP_007507065.1;gbkey=CDS;gene=cox1;product=cytochrome c oxidase subunit 1;protein_id=YP_007507065.1;transl_table=4
+NC_020430.1	RefSeq	CDS	58304	58478	.	+	0	ID=cds27;Parent=gene45;Dbxref=Genbank:YP_007507065.1,GeneID:14675733;Name=YP_007507065.1;gbkey=CDS;gene=cox1;product=cytochrome c oxidase subunit 1;protein_id=YP_007507065.1;transl_table=4
+NC_020430.1	RefSeq	CDS	59693	59920	.	+	2	ID=cds27;Parent=gene45;Dbxref=Genbank:YP_007507065.1,GeneID:14675733;Name=YP_007507065.1;gbkey=CDS;gene=cox1;product=cytochrome c oxidase subunit 1;protein_id=YP_007507065.1;transl_table=4
+NC_020430.1	RefSeq	CDS	61134	61226	.	+	2	ID=cds27;Parent=gene45;Dbxref=Genbank:YP_007507065.1,GeneID:14675733;Name=YP_007507065.1;gbkey=CDS;gene=cox1;product=cytochrome c oxidase subunit 1;protein_id=YP_007507065.1;transl_table=4
+NC_020430.1	RefSeq	CDS	62639	62660	.	+	2	ID=cds27;Parent=gene45;Dbxref=Genbank:YP_007507065.1,GeneID:14675733;Name=YP_007507065.1;gbkey=CDS;gene=cox1;product=cytochrome c oxidase subunit 1;protein_id=YP_007507065.1;transl_table=4
+NC_020430.1	RefSeq	CDS	63712	63788	.	+	1	ID=cds27;Parent=gene45;Dbxref=Genbank:YP_007507065.1,GeneID:14675733;Name=YP_007507065.1;gbkey=CDS;gene=cox1;product=cytochrome c oxidase subunit 1;protein_id=YP_007507065.1;transl_table=4
+NC_020430.1	RefSeq	CDS	65349	65406	.	+	2	ID=cds27;Parent=gene45;Dbxref=Genbank:YP_007507065.1,GeneID:14675733;Name=YP_007507065.1;gbkey=CDS;gene=cox1;product=cytochrome c oxidase subunit 1;protein_id=YP_007507065.1;transl_table=4
+NC_020430.1	RefSeq	CDS	66555	66745	.	+	1	ID=cds27;Parent=gene45;Dbxref=Genbank:YP_007507065.1,GeneID:14675733;Name=YP_007507065.1;gbkey=CDS;gene=cox1;product=cytochrome c oxidase subunit 1;protein_id=YP_007507065.1;transl_table=4
+NC_020430.1	RefSeq	CDS	68012	68060	.	+	2	ID=cds27;Parent=gene45;Dbxref=Genbank:YP_007507065.1,GeneID:14675733;Name=YP_007507065.1;gbkey=CDS;gene=cox1;product=cytochrome c oxidase subunit 1;protein_id=YP_007507065.1;transl_table=4
+NC_020430.1	RefSeq	CDS	69166	69180	.	+	1	ID=cds27;Parent=gene45;Dbxref=Genbank:YP_007507065.1,GeneID:14675733;Name=YP_007507065.1;gbkey=CDS;gene=cox1;product=cytochrome c oxidase subunit 1;protein_id=YP_007507065.1;transl_table=4
+NC_020430.1	RefSeq	CDS	70290	70773	.	+	1	ID=cds27;Parent=gene45;Dbxref=Genbank:YP_007507065.1,GeneID:14675733;Name=YP_007507065.1;gbkey=CDS;gene=cox1;product=cytochrome c oxidase subunit 1;protein_id=YP_007507065.1;transl_table=4
+NC_020430.1	RefSeq	gene	57001	57960	.	+	.	ID=gene46;Dbxref=GeneID:14675709;Name=oi1cox1;gbkey=Gene;gene=oi1cox1;gene_biotype=protein_coding;locus_tag=I510p21
+NC_020430.1	RefSeq	CDS	57001	57960	.	+	0	ID=cds28;Parent=gene46;Dbxref=Genbank:YP_007507066.1,GeneID:14675709;Name=YP_007507066.1;Note=intronic ORF at intron 1 of cox1;gbkey=CDS;gene=oi1cox1;product=GIY endonuclease;protein_id=YP_007507066.1;transl_table=4
+NC_020430.1	RefSeq	gene	58532	59581	.	+	.	ID=gene47;Dbxref=GeneID:14675734;Name=oi2cox1;gbkey=Gene;gene=oi2cox1;gene_biotype=protein_coding;locus_tag=I510p20
+NC_020430.1	RefSeq	CDS	58532	59581	.	+	0	ID=cds29;Parent=gene47;Dbxref=Genbank:YP_007507067.1,GeneID:14675734;Name=YP_007507067.1;Note=intronic ORF at intron 2 of cox1;gbkey=CDS;gene=oi2cox1;product=LAGLIDADG endonuclease;protein_id=YP_007507067.1;transl_table=4
+NC_020430.1	RefSeq	gene	59926	61014	.	+	.	ID=gene48;Dbxref=GeneID:14675735;Name=oi3cox1;gbkey=Gene;gene=oi3cox1;gene_biotype=protein_coding;locus_tag=I510p19
+NC_020430.1	RefSeq	CDS	59926	61014	.	+	0	ID=cds30;Parent=gene48;Dbxref=Genbank:YP_007507068.1,GeneID:14675735;Name=YP_007507068.1;gbkey=CDS;gene=oi3cox1;product=intronic ORF at intron 3 of cox1;protein_id=YP_007507068.1;transl_table=4
+NC_020430.1	RefSeq	gene	61235	62167	.	+	.	ID=gene49;Dbxref=GeneID:14675736;Name=oi4cox1;gbkey=Gene;gene=oi4cox1;gene_biotype=protein_coding;locus_tag=I510p18
+NC_020430.1	RefSeq	CDS	61235	62167	.	+	0	ID=cds31;Parent=gene49;Dbxref=Genbank:YP_007507069.1,GeneID:14675736;Name=YP_007507069.1;gbkey=CDS;gene=oi4cox1;product=intronic ORF at intron 4 of cox1;protein_id=YP_007507069.1;transl_table=4
+NC_020430.1	RefSeq	gene	62666	63622	.	+	.	ID=gene50;Dbxref=GeneID:14675737;Name=oi5cox1;gbkey=Gene;gene=oi5cox1;gene_biotype=protein_coding;locus_tag=I510p17
+NC_020430.1	RefSeq	CDS	62666	63622	.	+	0	ID=cds32;Parent=gene50;Dbxref=Genbank:YP_007507070.1,GeneID:14675737;Name=YP_007507070.1;gbkey=CDS;gene=oi5cox1;product=intronic ORF at intron 5 of cox1;protein_id=YP_007507070.1;transl_table=4
+NC_020430.1	RefSeq	gene	64157	64987	.	+	.	ID=gene51;Dbxref=GeneID:14675738;Name=Oi6cox1;gbkey=Gene;gene=Oi6cox1;gene_biotype=protein_coding;locus_tag=I510p16
+NC_020430.1	RefSeq	CDS	64157	64987	.	+	0	ID=cds33;Parent=gene51;Dbxref=Genbank:YP_007507071.1,GeneID:14675738;Name=YP_007507071.1;gbkey=CDS;gene=Oi6cox1;product=intronic ORF at intron 6 of cox1;protein_id=YP_007507071.1;transl_table=4
+NC_020430.1	RefSeq	gene	65432	66466	.	+	.	ID=gene52;Dbxref=GeneID:14675739;Name=oi7cox1;gbkey=Gene;gene=oi7cox1;gene_biotype=protein_coding;locus_tag=I510p15
+NC_020430.1	RefSeq	CDS	65432	66466	.	+	0	ID=cds34;Parent=gene52;Dbxref=Genbank:YP_007507072.1,GeneID:14675739;Name=YP_007507072.1;gbkey=CDS;gene=oi7cox1;product=intronic ORf at intron 7 of cox1;protein_id=YP_007507072.1;transl_table=4
+NC_020430.1	RefSeq	gene	66748	67995	.	+	.	ID=gene53;Dbxref=GeneID:14675740;Name=oi8cox1;gbkey=Gene;gene=oi8cox1;gene_biotype=protein_coding;locus_tag=I510p14
+NC_020430.1	RefSeq	CDS	66748	67995	.	+	0	ID=cds35;Parent=gene53;Dbxref=Genbank:YP_007507073.1,GeneID:14675740;Name=YP_007507073.1;gbkey=CDS;gene=oi8cox1;product=intronic ORF at intron 8 of cox1;protein_id=YP_007507073.1;transl_table=4
+NC_020430.1	RefSeq	gene	68176	68871	.	+	.	ID=gene54;Dbxref=GeneID:14675741;Name=oi9cox1;gbkey=Gene;gene=oi9cox1;gene_biotype=protein_coding;locus_tag=I510p13
+NC_020430.1	RefSeq	CDS	68176	68871	.	+	0	ID=cds36;Parent=gene54;Dbxref=Genbank:YP_007507074.1,GeneID:14675741;Name=YP_007507074.1;gbkey=CDS;gene=oi9cox1;product=intronic ORF 1 at intron 9 of cox1;protein_id=YP_007507074.1;transl_table=4
+NC_020430.1	RefSeq	gene	69185	70243	.	+	.	ID=gene55;Dbxref=GeneID:14675742;Name=oi10cox1;gbkey=Gene;gene=oi10cox1;gene_biotype=protein_coding;locus_tag=I510p12
+NC_020430.1	RefSeq	CDS	69185	70243	.	+	0	ID=cds37;Parent=gene55;Dbxref=Genbank:YP_007507075.1,GeneID:14675742;Name=YP_007507075.1;gbkey=CDS;gene=oi10cox1;product=intronic ORF at intron 9 of cox1;protein_id=YP_007507075.1;transl_table=4
+NC_020430.1	RefSeq	gene	71152	71221	.	+	.	ID=gene56;Dbxref=GeneID:14678464;Name=I510t17;gbkey=Gene;gene_biotype=tRNA;locus_tag=I510t17
+NC_020430.1	RefSeq	tRNA	71152	71221	.	+	.	ID=rna16;Parent=gene56;Dbxref=GeneID:14678464;Note=tRNA amber suppressor;gbkey=tRNA;product=tRNA-OTHER
+NC_020430.1	RefSeq	exon	71152	71221	.	+	.	ID=id21;Parent=rna16;Dbxref=GeneID:14678464;Note=tRNA amber suppressor;gbkey=tRNA;product=tRNA-OTHER
+NC_020430.1	RefSeq	gene	73736	73806	.	+	.	ID=gene57;Dbxref=GeneID:14675743;Name=trnR2;gbkey=Gene;gene=trnR2;gene_biotype=tRNA;locus_tag=I510t18
+NC_020430.1	RefSeq	tRNA	73736	73806	.	+	.	ID=rna17;Parent=gene57;Dbxref=GeneID:14675743;anticodon=(pos:73767..73769);codons=46;gbkey=tRNA;gene=trnR2;product=tRNA-Arg
+NC_020430.1	RefSeq	exon	73736	73806	.	+	.	ID=id22;Parent=rna17;Dbxref=GeneID:14675743;anticodon=(pos:73767..73769);codons=46;gbkey=tRNA;gene=trnR2;product=tRNA-Arg
+NC_020430.1	RefSeq	gene	74190	77674	.	+	.	ID=gene58;Dbxref=GeneID:14675676;Name=nad1;gbkey=Gene;gene=nad1;gene_biotype=protein_coding;locus_tag=I510p45
+NC_020430.1	RefSeq	CDS	74190	74358	.	+	0	ID=cds38;Parent=gene58;Dbxref=Genbank:YP_007507076.1,GeneID:14675676;Name=YP_007507076.1;gbkey=CDS;gene=nad1;product=NADH dehydrogenase subunit 1;protein_id=YP_007507076.1;transl_table=4
+NC_020430.1	RefSeq	CDS	76803	77674	.	+	2	ID=cds38;Parent=gene58;Dbxref=Genbank:YP_007507076.1,GeneID:14675676;Name=YP_007507076.1;gbkey=CDS;gene=nad1;product=NADH dehydrogenase subunit 1;protein_id=YP_007507076.1;transl_table=4
+NC_020430.1	RefSeq	gene	74415	75551	.	+	.	ID=gene59;Dbxref=GeneID:14675710;Name=oi1nad1;gbkey=Gene;gene=oi1nad1;gene_biotype=protein_coding;locus_tag=I510p11
+NC_020430.1	RefSeq	CDS	74415	75551	.	+	0	ID=cds39;Parent=gene59;Dbxref=Genbank:YP_007507077.1,GeneID:14675710;Name=YP_007507077.1;Note=intronic ORF at intron 1 of nad1;gbkey=CDS;gene=oi1nad1;product=GIY endonuclease;protein_id=YP_007507077.1;transl_table=4
+NC_020430.1	RefSeq	gene	77991	80824	.	+	.	ID=gene60;Dbxref=GeneID:14675744;Name=nad4;gbkey=Gene;gene=nad4;gene_biotype=protein_coding;locus_tag=I510p50
+NC_020430.1	RefSeq	CDS	77991	78498	.	+	0	ID=cds40;Parent=gene60;Dbxref=Genbank:YP_007507078.1,GeneID:14675744;Name=YP_007507078.1;gbkey=CDS;gene=nad4;product=NADH dehydrogenase subunit 4;protein_id=YP_007507078.1;transl_table=4
+NC_020430.1	RefSeq	CDS	79833	80824	.	+	2	ID=cds40;Parent=gene60;Dbxref=Genbank:YP_007507078.1,GeneID:14675744;Name=YP_007507078.1;gbkey=CDS;gene=nad4;product=NADH dehydrogenase subunit 4;protein_id=YP_007507078.1;transl_table=4
+NC_020430.1	RefSeq	gene	78654	79754	.	+	.	ID=gene61;Dbxref=GeneID:14675705;Name=oi1nad4;gbkey=Gene;gene=oi1nad4;gene_biotype=protein_coding;locus_tag=I510p10
+NC_020430.1	RefSeq	CDS	78654	79754	.	+	0	ID=cds41;Parent=gene61;Dbxref=Genbank:YP_007507079.1,GeneID:14675705;Name=YP_007507079.1;Note=intronic ORF at intron 1 of nad4;gbkey=CDS;gene=oi1nad4;product=LAGLIDADG endonuclease;protein_id=YP_007507079.1;transl_table=4
+NC_020430.1	RefSeq	gene	81167	81319	.	+	.	ID=gene62;Dbxref=GeneID:14675745;Name=atp8;gbkey=Gene;gene=atp8;gene_biotype=protein_coding;locus_tag=I510p44
+NC_020430.1	RefSeq	CDS	81167	81319	.	+	0	ID=cds42;Parent=gene62;Dbxref=Genbank:YP_007507080.1,GeneID:14675745;Name=YP_007507080.1;gbkey=CDS;gene=atp8;product=ATP synthase subunit 8;protein_id=YP_007507080.1;transl_table=4
+NC_020430.1	RefSeq	gene	81365	85514	.	+	.	ID=gene63;Dbxref=GeneID:14675711;Name=atp6;gbkey=Gene;gene=atp6;gene_biotype=protein_coding;locus_tag=I510p43
+NC_020430.1	RefSeq	CDS	81365	81899	.	+	0	ID=cds43;Parent=gene63;Dbxref=Genbank:YP_007507081.1,GeneID:14675711;Name=YP_007507081.1;gbkey=CDS;gene=atp6;product=ATP synthase subunit 6;protein_id=YP_007507081.1;transl_table=4
+NC_020430.1	RefSeq	CDS	83574	83627	.	+	2	ID=cds43;Parent=gene63;Dbxref=Genbank:YP_007507081.1,GeneID:14675711;Name=YP_007507081.1;gbkey=CDS;gene=atp6;product=ATP synthase subunit 6;protein_id=YP_007507081.1;transl_table=4
+NC_020430.1	RefSeq	CDS	85312	85514	.	+	2	ID=cds43;Parent=gene63;Dbxref=Genbank:YP_007507081.1,GeneID:14675711;Name=YP_007507081.1;gbkey=CDS;gene=atp6;product=ATP synthase subunit 6;protein_id=YP_007507081.1;transl_table=4
+NC_020430.1	RefSeq	gene	82475	83536	.	+	.	ID=gene64;Dbxref=GeneID:14675712;Name=oi1atp6;gbkey=Gene;gene=oi1atp6;gene_biotype=protein_coding;locus_tag=I510p09
+NC_020430.1	RefSeq	CDS	82475	83536	.	+	0	ID=cds44;Parent=gene64;Dbxref=Genbank:YP_007507082.1,GeneID:14675712;Name=YP_007507082.1;Note=intronic ORF at intron 1 of atp6;gbkey=CDS;gene=oi1atp6;product=GIY-YIG endonuclease;protein_id=YP_007507082.1;transl_table=4
+NC_020430.1	RefSeq	gene	84359	85252	.	+	.	ID=gene65;Dbxref=GeneID:14675746;Name=oi2atp6;gbkey=Gene;gene=oi2atp6;gene_biotype=protein_coding;locus_tag=I510p08
+NC_020430.1	RefSeq	CDS	84359	85252	.	+	0	ID=cds45;Parent=gene65;Dbxref=Genbank:YP_007507083.1,GeneID:14675746;Name=YP_007507083.1;Note=intronic orf at intron 2 of atp6;gbkey=CDS;gene=oi2atp6;product=GIY-YIG endonuclease;protein_id=YP_007507083.1;transl_table=4
+NC_020430.1	RefSeq	gene	85703	85773	.	+	.	ID=gene66;Dbxref=GeneID:14675747;Name=trnI1;gbkey=Gene;gene=trnI1;gene_biotype=tRNA;locus_tag=I510t09
+NC_020430.1	RefSeq	tRNA	85703	85773	.	+	.	ID=rna18;Parent=gene66;Dbxref=GeneID:14675747;anticodon=(pos:85734..85736);codons=34;gbkey=tRNA;gene=trnI1;product=tRNA-Ile
+NC_020430.1	RefSeq	exon	85703	85773	.	+	.	ID=id23;Parent=rna18;Dbxref=GeneID:14675747;anticodon=(pos:85734..85736);codons=34;gbkey=tRNA;gene=trnI1;product=tRNA-Ile
+NC_020430.1	RefSeq	gene	86410	90446	.	+	.	ID=gene67;Dbxref=GeneID:14675700;Name=rns;gbkey=Gene;gene=rns;gene_biotype=rRNA;locus_tag=I510r02
+NC_020430.1	RefSeq	rRNA	86410	90446	.	+	.	ID=rna19;Parent=gene67;Dbxref=GeneID:14675700;gbkey=rRNA;gene=rns;product=small subunit ribosomal RNA
+NC_020430.1	RefSeq	exon	86410	87267	.	+	.	ID=id24;Parent=rna19;Dbxref=GeneID:14675700;gbkey=rRNA;gene=rns;product=small subunit ribosomal RNA
+NC_020430.1	RefSeq	exon	89779	90446	.	+	.	ID=id25;Parent=rna19;Dbxref=GeneID:14675700;gbkey=rRNA;gene=rns;product=small subunit ribosomal RNA
+NC_020430.1	RefSeq	gene	88201	89502	.	+	.	ID=gene68;Dbxref=GeneID:14675755;Name=oi1rns;gbkey=Gene;gene=oi1rns;gene_biotype=protein_coding;locus_tag=I510p07
+NC_020430.1	RefSeq	CDS	88201	89502	.	+	0	ID=cds46;Parent=gene68;Dbxref=Genbank:YP_007507084.1,GeneID:14675755;Name=YP_007507084.1;gbkey=CDS;gene=oi1rns;product=hypothetical protein;protein_id=YP_007507084.1;transl_table=4
+NC_020430.1	RefSeq	gene	91973	92042	.	+	.	ID=gene69;Dbxref=GeneID:14675748;Name=trnM3;gbkey=Gene;gene=trnM3;gene_biotype=tRNA;locus_tag=I510t19
+NC_020430.1	RefSeq	tRNA	91973	92042	.	+	.	ID=rna20;Parent=gene69;Dbxref=GeneID:14675748;anticodon=(pos:92005..92007);codons=35;gbkey=tRNA;gene=trnM3;product=tRNA-Met
+NC_020430.1	RefSeq	exon	91973	92042	.	+	.	ID=id26;Parent=rna20;Dbxref=GeneID:14675748;anticodon=(pos:92005..92007);codons=35;gbkey=tRNA;gene=trnM3;product=tRNA-Met
+NC_020430.1	RefSeq	gene	92316	92401	.	+	.	ID=gene70;Dbxref=GeneID:14675679;Name=trnY;gbkey=Gene;gene=trnY;gene_biotype=tRNA;locus_tag=I510t20
+NC_020430.1	RefSeq	tRNA	92316	92401	.	+	.	ID=rna21;Parent=gene70;Dbxref=GeneID:14675679;anticodon=(pos:92351..92353);codons=9;gbkey=tRNA;gene=trnY;product=tRNA-Tyr
+NC_020430.1	RefSeq	exon	92316	92401	.	+	.	ID=id27;Parent=rna21;Dbxref=GeneID:14675679;anticodon=(pos:92351..92353);codons=9;gbkey=tRNA;gene=trnY;product=tRNA-Tyr
+NC_020430.1	RefSeq	gene	92440	95810	.	+	.	ID=gene71;Dbxref=GeneID:14675680;Name=cox3;gbkey=Gene;gene=cox3;gene_biotype=protein_coding;locus_tag=I510p42
+NC_020430.1	RefSeq	CDS	92440	92509	.	+	0	ID=cds47;Parent=gene71;Dbxref=Genbank:YP_007507085.1,GeneID:14675680;Name=YP_007507085.1;gbkey=CDS;gene=cox3;product=cytochrome c oxidase subunit 3;protein_id=YP_007507085.1;transl_table=4
+NC_020430.1	RefSeq	CDS	93952	94101	.	+	2	ID=cds47;Parent=gene71;Dbxref=Genbank:YP_007507085.1,GeneID:14675680;Name=YP_007507085.1;gbkey=CDS;gene=cox3;product=cytochrome c oxidase subunit 3;protein_id=YP_007507085.1;transl_table=4
+NC_020430.1	RefSeq	CDS	95221	95810	.	+	2	ID=cds47;Parent=gene71;Dbxref=Genbank:YP_007507085.1,GeneID:14675680;Name=YP_007507085.1;gbkey=CDS;gene=cox3;product=cytochrome c oxidase subunit 3;protein_id=YP_007507085.1;transl_table=4
+NC_020430.1	RefSeq	gene	92512	92871	.	+	.	ID=gene72;Dbxref=GeneID:14675713;Name=oi1cox3;gbkey=Gene;gene=oi1cox3;gene_biotype=protein_coding;locus_tag=I510p05
+NC_020430.1	RefSeq	CDS	92512	92871	.	+	0	ID=cds48;Parent=gene72;Dbxref=Genbank:YP_007507086.1,GeneID:14675713;Name=YP_007507086.1;Note=intronic ORF at intron 1 of cox3;gbkey=CDS;gene=oi1cox3;product=LAGLIDADG endonuclease;protein_id=YP_007507086.1;transl_table=4
+NC_020430.1	RefSeq	gene	94107	95030	.	+	.	ID=gene73;Dbxref=GeneID:14675750;Name=oi2cox3;gbkey=Gene;gene=oi2cox3;gene_biotype=protein_coding;locus_tag=I510p06
+NC_020430.1	RefSeq	CDS	94107	95030	.	+	0	ID=cds49;Parent=gene73;Dbxref=Genbank:YP_007507087.1,GeneID:14675750;Name=YP_007507087.1;Note=intronic ORF at intron 2 of cox3;gbkey=CDS;gene=oi2cox3;product=LAGLIDADG endonuclease;protein_id=YP_007507087.1;transl_table=4
+NC_020430.1	RefSeq	gene	96925	96995	.	+	.	ID=gene74;Dbxref=GeneID:14675749;Name=trnG;gbkey=Gene;gene=trnG;gene_biotype=tRNA;locus_tag=I510t21
+NC_020430.1	RefSeq	tRNA	96925	96995	.	+	.	ID=rna22;Parent=gene74;Dbxref=GeneID:14675749;anticodon=(pos:96956..96958);codons=62;gbkey=tRNA;gene=trnG;product=tRNA-Gly
+NC_020430.1	RefSeq	exon	96925	96995	.	+	.	ID=id28;Parent=rna22;Dbxref=GeneID:14675749;anticodon=(pos:96956..96958);codons=62;gbkey=tRNA;gene=trnG;product=tRNA-Gly
+NC_020430.1	RefSeq	gene	97427	97499	.	+	.	ID=gene75;Dbxref=GeneID:14675681;Name=trnK;gbkey=Gene;gene=trnK;gene_biotype=tRNA;locus_tag=I510t22
+NC_020430.1	RefSeq	tRNA	97427	97499	.	+	.	ID=rna23;Parent=gene75;Dbxref=GeneID:14675681;anticodon=(pos:97459..97461);codons=42;gbkey=tRNA;gene=trnK;product=tRNA-Lys
+NC_020430.1	RefSeq	exon	97427	97499	.	+	.	ID=id29;Parent=rna23;Dbxref=GeneID:14675681;anticodon=(pos:97459..97461);codons=42;gbkey=tRNA;gene=trnK;product=tRNA-Lys
+NC_020430.1	RefSeq	gene	97516	97588	.	+	.	ID=gene76;Dbxref=GeneID:14675682;Name=trnD;gbkey=Gene;gene=trnD;gene_biotype=tRNA;locus_tag=I510t23
+NC_020430.1	RefSeq	tRNA	97516	97588	.	+	.	ID=rna24;Parent=gene76;Dbxref=GeneID:14675682;anticodon=(pos:97548..97550);codons=57;gbkey=tRNA;gene=trnD;product=tRNA-Asp
+NC_020430.1	RefSeq	exon	97516	97588	.	+	.	ID=id30;Parent=rna24;Dbxref=GeneID:14675682;anticodon=(pos:97548..97550);codons=57;gbkey=tRNA;gene=trnD;product=tRNA-Asp
+NC_020430.1	RefSeq	gene	97596	97676	.	+	.	ID=gene77;Dbxref=GeneID:14675683;Name=trnS1;gbkey=Gene;gene=trnS1;gene_biotype=tRNA;locus_tag=I510t24
+NC_020430.1	RefSeq	tRNA	97596	97676	.	+	.	ID=rna25;Parent=gene77;Dbxref=GeneID:14675683;anticodon=(pos:97627..97629);codons=45;gbkey=tRNA;gene=trnS1;product=tRNA-Ser
+NC_020430.1	RefSeq	exon	97596	97676	.	+	.	ID=id31;Parent=rna25;Dbxref=GeneID:14675683;anticodon=(pos:97627..97629);codons=45;gbkey=tRNA;gene=trnS1;product=tRNA-Ser
+NC_020430.1	RefSeq	gene	98188	98259	.	+	.	ID=gene78;Dbxref=GeneID:14675684;Name=trnW1;gbkey=Gene;gene=trnW1;gene_biotype=tRNA;locus_tag=I510t25
+NC_020430.1	RefSeq	tRNA	98188	98259	.	+	.	ID=rna26;Parent=gene78;Dbxref=GeneID:14675684;anticodon=(pos:98220..98222);codons=14;gbkey=tRNA;gene=trnW1;product=tRNA-Trp
+NC_020430.1	RefSeq	exon	98188	98259	.	+	.	ID=id32;Parent=rna26;Dbxref=GeneID:14675684;anticodon=(pos:98220..98222);codons=14;gbkey=tRNA;gene=trnW1;product=tRNA-Trp
+NC_020430.1	RefSeq	gene	98624	101145	.	+	.	ID=gene79;Dbxref=GeneID:14675685;Name=nad6;gbkey=Gene;gene=nad6;gene_biotype=protein_coding;locus_tag=I510p41
+NC_020430.1	RefSeq	CDS	98624	98851	.	+	0	ID=cds50;Parent=gene79;Dbxref=Genbank:YP_007507088.1,GeneID:14675685;Name=YP_007507088.1;gbkey=CDS;gene=nad6;product=NADH dehydrogenase subunit 6;protein_id=YP_007507088.1;transl_table=4
+NC_020430.1	RefSeq	CDS	100687	101145	.	+	0	ID=cds50;Parent=gene79;Dbxref=Genbank:YP_007507088.1,GeneID:14675685;Name=YP_007507088.1;gbkey=CDS;gene=nad6;product=NADH dehydrogenase subunit 6;protein_id=YP_007507088.1;transl_table=4
+NC_020430.1	RefSeq	gene	98828	100288	.	+	.	ID=gene80;Dbxref=GeneID:14675714;Name=oi1nad6;gbkey=Gene;gene=oi1nad6;gene_biotype=protein_coding;locus_tag=I510p04
+NC_020430.1	RefSeq	CDS	98828	100288	.	+	0	ID=cds51;Parent=gene80;Dbxref=Genbank:YP_007507089.1,GeneID:14675714;Name=YP_007507089.1;Note=intronic ORF at intron 1 of nad6;gbkey=CDS;gene=oi1nad6;product=LAGLIDADG endonuclease;protein_id=YP_007507089.1;transl_table=4
+NC_020430.1	RefSeq	gene	101489	101560	.	+	.	ID=gene81;Dbxref=GeneID:14675751;Name=trnV;gbkey=Gene;gene=trnV;gene_biotype=tRNA;locus_tag=I510t26
+NC_020430.1	RefSeq	tRNA	101489	101560	.	+	.	ID=rna27;Parent=gene81;Dbxref=GeneID:14675751;anticodon=(pos:101520..101522);codons=50;gbkey=tRNA;gene=trnV;product=tRNA-Val
+NC_020430.1	RefSeq	exon	101489	101560	.	+	.	ID=id33;Parent=rna27;Dbxref=GeneID:14675751;anticodon=(pos:101520..101522);codons=50;gbkey=tRNA;gene=trnV;product=tRNA-Val
+NC_020430.1	RefSeq	gene	101801	101872	.	+	.	ID=gene82;Dbxref=GeneID:14675686;Name=trnW2;gbkey=Gene;gene=trnW2;gene_biotype=tRNA;locus_tag=I510t27
+NC_020430.1	RefSeq	tRNA	101801	101872	.	+	.	ID=rna28;Parent=gene82;Dbxref=GeneID:14675686;anticodon=(pos:101833..101835);codons=14;gbkey=tRNA;gene=trnW2;product=tRNA-Trp
+NC_020430.1	RefSeq	exon	101801	101872	.	+	.	ID=id34;Parent=rna28;Dbxref=GeneID:14675686;anticodon=(pos:101833..101835);codons=14;gbkey=tRNA;gene=trnW2;product=tRNA-Trp
+NC_020430.1	RefSeq	gene	102489	102562	.	+	.	ID=gene83;Dbxref=GeneID:14675687;Name=trnI2;gbkey=Gene;gene=trnI2;gene_biotype=tRNA;locus_tag=I510t28
+NC_020430.1	RefSeq	tRNA	102489	102562	.	+	.	ID=rna29;Parent=gene83;Dbxref=GeneID:14675687;anticodon=(pos:102523..102525);codons=33;gbkey=tRNA;gene=trnI2;product=tRNA-Ile
+NC_020430.1	RefSeq	exon	102489	102562	.	+	.	ID=id35;Parent=rna29;Dbxref=GeneID:14675687;anticodon=(pos:102523..102525);codons=33;gbkey=tRNA;gene=trnI2;product=tRNA-Ile
+NC_020430.1	RefSeq	gene	102574	102658	.	+	.	ID=gene84;Dbxref=GeneID:14675688;Name=trnS2;gbkey=Gene;gene=trnS2;gene_biotype=tRNA;locus_tag=I510t29
+NC_020430.1	RefSeq	tRNA	102574	102658	.	+	.	ID=rna30;Parent=gene84;Dbxref=GeneID:14675688;anticodon=(pos:102607..102609);codons=6;gbkey=tRNA;gene=trnS2;product=tRNA-Ser
+NC_020430.1	RefSeq	exon	102574	102658	.	+	.	ID=id36;Parent=rna30;Dbxref=GeneID:14675688;anticodon=(pos:102607..102609);codons=6;gbkey=tRNA;gene=trnS2;product=tRNA-Ser
+NC_020430.1	RefSeq	gene	102984	103055	.	+	.	ID=gene85;Dbxref=GeneID:14675689;Name=trnN;gbkey=Gene;gene=trnN;gene_biotype=tRNA;locus_tag=I510t30
+NC_020430.1	RefSeq	tRNA	102984	103055	.	+	.	ID=rna31;Parent=gene85;Dbxref=GeneID:14675689;anticodon=(pos:103015..103017);codons=41;gbkey=tRNA;gene=trnN;product=tRNA-Asn
+NC_020430.1	RefSeq	exon	102984	103055	.	+	.	ID=id37;Parent=rna31;Dbxref=GeneID:14675689;anticodon=(pos:103015..103017);codons=41;gbkey=tRNA;gene=trnN;product=tRNA-Asn
+NC_020430.1	RefSeq	gene	103058	103130	.	+	.	ID=gene86;Dbxref=GeneID:14675690;Name=trnP;gbkey=Gene;gene=trnP;gene_biotype=tRNA;locus_tag=I510t31
+NC_020430.1	RefSeq	tRNA	103058	103130	.	+	.	ID=rna32;Parent=gene86;Dbxref=GeneID:14675690;anticodon=(pos:103090..103092);codons=22;gbkey=tRNA;gene=trnP;product=tRNA-Pro
+NC_020430.1	RefSeq	exon	103058	103130	.	+	.	ID=id38;Parent=rna32;Dbxref=GeneID:14675690;anticodon=(pos:103090..103092);codons=22;gbkey=tRNA;gene=trnP;product=tRNA-Pro
+

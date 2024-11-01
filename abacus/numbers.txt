@@ -1,0 +1,6 @@
+>genome-size	103147
+>intron	37527
+>tRNA	2321
+>rRNA	4538
+>CDS	15720
+>ORF	36768
